@@ -1,0 +1,27 @@
+main {
+
+
+    background-image: url(../assets/img/fondo2.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(72, 142, 93, 0.819);
+
+
+    div {
+        background-color: rgba(192, 132, 22, 0.6);
+
+        h2 {
+            font-family: $tipografiaTextos;
+            color: $colorSecundario;
+        }
+
+        pr {
+            font-family: $tipografiaTextos;
+            color: $colorTerciario;
+
+        }
+
+    }
+}

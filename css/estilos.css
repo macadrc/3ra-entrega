@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap");
+header {
+  background-color: transparent;
+}
+header div {
+  background-color: rgba(56, 102, 73, 0.877);
+}
+header div .nav ul {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+header div .nav navbar-light navbar-nav .linkNegro {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+header div .nav div h1 {
+  font-family: "Montserrat", sans-serif;
+  color: rgba(209, 183, 104, 0.929);
+}
+header div #idColorFondo {
+  background-color: rgba(78, 148, 66, 0.938);
+}
+
+main {
+  background-image: url(../assets/img/fondo2.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: rgba(72, 142, 93, 0.819);
+}
+main div {
+  background-color: rgba(192, 132, 22, 0.6);
+}
+main div h2 {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+main div pr {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+/*# sourceMappingURL=estilos.css.map */
